@@ -1,0 +1,6 @@
+@MonRestoAPI_HostAddress = http://localhost:5247
+
+GET {{MonRestoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

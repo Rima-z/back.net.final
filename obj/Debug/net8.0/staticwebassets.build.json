@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mHl1OIGDj9OlXA7457s6Bwi8F7o4n9O85K4ZHOevpoI=",
+  "Source": "MonRestoAPI",
+  "BasePath": "_content/MonRestoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
